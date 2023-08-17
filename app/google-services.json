@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377245974101",
+    "project_id": "myotpauthfirebase",
+    "storage_bucket": "myotpauthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377245974101:android:17da20a87ef9fc3b60dedc",
+        "android_client_info": {
+          "package_name": "com.millenialzdev.otpsmsauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377245974101-40ups2g81qrphl26qp41df59rqk6a9iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATK58-Cy1Wk1VhSF4Sfs4UxbFFY3D67wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377245974101-40ups2g81qrphl26qp41df59rqk6a9iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
